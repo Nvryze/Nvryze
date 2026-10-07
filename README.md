@@ -1,8 +1,10 @@
+—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
+
 <table>
   <tr>
     <td><img src="assets/logo.png" width="200"></td>
     <td>
-
 ```text
 Nvryze@navlinux
 —————————————————————
@@ -12,7 +14,6 @@ Shell: bash
 Stack: stuck here
 Focus: On Carrier
 ```
-
 </td>
   </tr>
 </table>
